@@ -1,0 +1,25 @@
+# Rktbtc Key Gen
+
+![Screenshot from 2021-01-24 12-48-34](https://user-images.githubusercontent.com/69615463/105623479-3383e100-5e44-11eb-8207-c0c8dbe20250.png)
+
+
+<h6>Author : RKT</h6>
+
+
+
+A simple python progrom which generate bitcoin private key and public key from linux.
+
+
+### Setup ###
+
++ sudo pip install -r requirements.txt
+
+### Terminal Command ###
+
++ git clone https://github.com/r3k4t/rktbtc-key-gen.git
++ cd rktbtc-key-gen
++ sudo python rktbtc-key-gen.py
+
+
+
+
