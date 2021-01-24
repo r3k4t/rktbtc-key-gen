@@ -11,6 +11,10 @@ print ("            =============================================")
 
 print 
 
+
+import os
+import sys
+
 # Generate private key
 
 rkt_private_key = random_key()
