@@ -1,3 +1,5 @@
+import os
+import sys
 from bitcoin import *
 
 os.system("clear")
@@ -11,9 +13,6 @@ print ("            =============================================")
 
 print 
 
-
-import os
-import sys
 
 # Generate private key
 
