@@ -7,7 +7,7 @@
 
 
 
-A simple python progrom which generate bitcoin private key and public key from linux.
+A simple python program which generate bitcoin private key and public key from linux.
 
 
 ### Setup ###
